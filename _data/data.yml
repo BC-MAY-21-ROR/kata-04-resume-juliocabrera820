@@ -7,9 +7,9 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: Julio Ariel Cabrera Caamal
+  name: Julio Cabrera
   tagline: Ruby On Rails Web Developer
-  avatar: profile.jpg
+  avatar: escudo.png
 
   # Actualiza tus datos de contacto
   email: juliocabrera820@gmail.com
@@ -49,10 +49,8 @@ career-profile:
   summary: |
     I'm currently a software engineering student who is waiting for a opportunity to gain 
     experience as well as knowing work environment.
-
     I like being a self-taught programmer because I can learn new topics and 
     discuss about some good practices and after I'll be able to put in practice.
-    
     I also like contributing to the community sharing value information or with an interesting workshop.
     One of my goals is keep learning and keep growing as profesional.
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
@@ -61,7 +59,6 @@ educationcomplete:
     university: Faculty of Math UADY
     time: 2017 Sep - current
     details: |
-
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
   - role: Brigthcoder
@@ -153,4 +150,4 @@ skills:
       level: 60%
 # NO MODIFICAR
 footer: >
-  BrightCoders Academy
+  BrightCoders for a brighter future!
